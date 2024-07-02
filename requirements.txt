@@ -1,0 +1,8 @@
+flask
+plotly
+matplotlib
+tensorflow
+pillow
+numpy
+opencv-python
+werkzeug
